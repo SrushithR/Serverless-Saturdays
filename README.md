@@ -1,4 +1,4 @@
-# Serverless Saturdays
+# ⚡ Serverless Saturdays ⚡
 
 A repo to store all the resources from "Serverless Saturdays", a free monthly webinar about "everything Serverless", an initiative from [AWS User Group Tirupati](https://www.meetup.com/aws-user-group-tirupati) and the [Serverless Group, Bangalore](https://www.meetup.com/Serverless-Bangalore)
 
