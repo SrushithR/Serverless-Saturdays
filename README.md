@@ -9,3 +9,5 @@ Session 1: "Convince your boss to go Serverless" by [Vadym Kazulkin](https://twi
 Session 2: "CICD in the World of Serverless" by [Srushith Repakula](https://twitter.com/SrushithR), Head of Engineering, KonfHub
 
 Interesed in contributing or presenting in the series? You can reach out to me at srushith.r@gmail.com or [Akshay](https://twitter.com/AkshayM03461013) at menonakshay07@gmail.com
+
+[Notify me for future events](https://konf.me/ss-forms)
