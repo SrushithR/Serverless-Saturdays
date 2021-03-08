@@ -9,20 +9,17 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 ##  Serverless Saturdays PlayList
 
 ### Session 1
-   - Topic Covered: Convince your boss to go Serverless
-   - Powerpoint presentation [:floppy_disk:](https://www.slideshare.net/VadymKazulkin/convince-your-boss-to-go-serverless-at-aws-user-group-tirupathi-and-serverless-bangalore-meetup)
-   - Video Stream of the session [:movie_camera:](https://www.youtube.com/watch?v=yzut-TDCqmk)
-   - Resource Person [Vadym Kazulkin](https://twitter.com/VKazulkin) - Head of Technology Strategy at ip.labs GmbH
+    - Topic Covered: Convince your boss to go Serverless
+    - Powerpoint presentation [:floppy_disk:](https://www.slideshare.net/VadymKazulkin/convince-your-boss-to-go-serverless-at-aws-user-group-tirupathi-and-serverless-bangalore-meetup)
+    - Video Stream of the session [:movie_camera:](https://www.youtube.com/watch?v=yzut-TDCqmk)
+    - Resource Person [Vadym Kazulkin](https://twitter.com/VKazulkin) - Head of Technology Strategy at ip.labs GmbH
 
 
-- Session 2
-      - Topic Covered: CICD in the World of Serverless
-      - Powerpoint presentation: [:floppy_disk:](https://www.slideshare.net/SrushithR/cicd-in-the-world-of-serverless-243556208)
-      - Video Stream of the session: [:movie_camera:](https://www.youtube.com/watch?v=yzut-TDCqmk)
-      - Resource Person: [Srushith Repakula](https://twitter.com/SrushithR) - Head of Engineering, KonfHub
-
-      
-
+### Session 2
+    - Topic Covered: CICD in the World of Serverless
+    - Powerpoint presentation: [:floppy_disk:](https://www.slideshare.net/SrushithR/cicd-in-the-world-of-serverless-243556208)
+    - Video Stream of the session: [:movie_camera:](https://www.youtube.com/watch?v=yzut-TDCqmk)
+    - Resource Person: [Srushith Repakula](https://twitter.com/SrushithR) - Head of Engineering, KonfHub
 
 ## Interesed in contributing or presenting in the series?
 
