@@ -45,6 +45,6 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@srushith&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/srushith/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@srushithr&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/srushithr)
 
 
-###### Content Courtesy Srushith Repakula, [Smile Gupta](https://twitter.com/smileguptaaa)
+###### Content Courtesy [Srushith Repakula](https://github.com/SrushithR), [Smile Gupta](https://github.com/smilegupta)
 
 
