@@ -6,7 +6,7 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 ## Prerequisite
    - A zeal to Learn about Serverless 
 
-##  Serverless Saturdays PlayList
+##  Serverless Saturdays Playlist
 
 ### Session 1
    - Topic Covered: Convince your boss to go Serverless
@@ -23,25 +23,21 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ## Interesed in contributing or presenting in the series?
 
-```
-
+```javascript
   if (interested === true) {
      const emailId = "srushith.r@gmail.com" || "menonakshay07@gmail.com";
      // email is the best way to reach out to us.
      sendEmail(emailId);
   }
-
 ```
 
 ## Want to get notifications for future events?
 
-```
-
+```javascript
   if (notifications === true) {
      const form = https://konf.me/ss-forms;
      fillForm(form);
   }
-
 ```
 
 ***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/https://github.com/smilegupta/Serverless-Saturdays) this repo.***
@@ -49,6 +45,6 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@srushith&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/srushith/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@srushithr&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/srushithr)
 
 
-###### Content Courtesy Srushith Repakula
+###### Content Courtesy Srushith Repakula, [Smile Gupta](https://twitter.com/smileguptaaa)
 
 
