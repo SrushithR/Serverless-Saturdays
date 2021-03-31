@@ -1,3 +1,6 @@
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/23396903/113184852-54691800-9273-11eb-9c2f-5f3371e8a8e2.gif)
+
+
 ## What is Serverless Saturdays
 
 It is a free monthly webinar about "everything Serverless", an initiative from [AWS User Group Tirupati](https://www.meetup.com/aws-user-group-tirupati) and the [Serverless Group, Bangalore](https://www.meetup.com/Serverless-Bangalore)
