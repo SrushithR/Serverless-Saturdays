@@ -29,6 +29,7 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 #### Session 2: Getting started with Amazon EventBridge
    - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=yzut-TDCqmk)
+   - Powerpoint presentation: [https://www.slideshare.net/SrushithR/getting-started-with-amazon-eventbridge](https://www.slideshare.net/SrushithR/getting-started-with-amazon-eventbridge)
    - Resource Person: [Srushith Repakula](https://twitter.com/SrushithR), AWS Serverless Hero and Head of Engineering, KonfHub
 
 ## Interesed in contributing or presenting in the series?
@@ -56,5 +57,3 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 
 ###### Content Courtesy [Srushith Repakula](https://github.com/SrushithR), [Smile Gupta](https://github.com/smilegupta)
-
-
