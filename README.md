@@ -11,6 +11,26 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ##  Serverless Saturdays Playlist
 
+### 24th April, 2021 (Upcoming)
+
+#### Session 1: Serverless - why, what, when and how?
+   - Resource Person: [Rajalakshmi Srinivasan](https://www.linkedin.com/in/raji-zoho/), is a director - product management, at Zoho Corp.
+
+#### Session 2:  Connecting Us With Video (opinionated talk)
+   - Resource Person: [Alex Zumkhawala](https://twitter.com/spicykey/), 5x AWS certified, AWS Certified SME, and AWS Community Builder member.
+
+
+### 27th March, 2021
+
+#### Session 1: Load testing serverless applications and understanding how AWS Lambda scales
+   - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=yzut-TDCqmk)
+   - Resource Person: [Vishnu Prasad](https://www.linkedin.com/in/vishnu-prasad-a2490b91/), Serverless Developer at Serverlessguru and AWS Community Builder
+
+#### Session 2: Getting started with Amazon EventBridge
+   - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=yzut-TDCqmk)
+   - Powerpoint presentation: [https://www.slideshare.net/SrushithR/getting-started-with-amazon-eventbridge](https://www.slideshare.net/SrushithR/getting-started-with-amazon-eventbridge)
+   - Resource Person: [Srushith Repakula](https://twitter.com/SrushithR), AWS Serverless Hero and Head of Engineering, KonfHub
+
 ### 27th Feburary, 2021
 
 #### Session 1: Convince your boss to go Serverless
@@ -22,17 +42,6 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 #### Session 2: CI CD in the World of Serverless
    - Powerpoint presentation: [https://www.slideshare.net/SrushithR/cicd-in-the-world-of-serverless-243556208](https://www.slideshare.net/SrushithR/cicd-in-the-world-of-serverless-243556208)
    - Video Stream: [https://www.youtube.com/watch?v=yzut-TDCqmk](https://www.youtube.com/watch?v=yzut-TDCqmk)
-   - Resource Person: [Srushith Repakula](https://twitter.com/SrushithR), AWS Serverless Hero and Head of Engineering, KonfHub
-
-### 27th March, 2021
-
-#### Session 1: Load testing serverless applications and understanding how AWS Lambda scales
-   - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=yzut-TDCqmk)
-   - Resource Person: [Vishnu Prasad](https://www.linkedin.com/in/vishnu-prasad-a2490b91/), Serverless Developer at Serverlessguru and AWS Community Builder
-
-#### Session 2: Getting started with Amazon EventBridge
-   - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=yzut-TDCqmk)
-   - Powerpoint presentation: [https://www.slideshare.net/SrushithR/getting-started-with-amazon-eventbridge](https://www.slideshare.net/SrushithR/getting-started-with-amazon-eventbridge)
    - Resource Person: [Srushith Repakula](https://twitter.com/SrushithR), AWS Serverless Hero and Head of Engineering, KonfHub
 
 ## Interesed in contributing or presenting in the series?
