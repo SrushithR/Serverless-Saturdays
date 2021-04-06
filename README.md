@@ -48,7 +48,7 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ```javascript
   if (interested === true) {
-     const emailId = "srushith.r@gmail.com" || "menonakshay07@gmail.com";
+     const emailId = "srushith.r@gmail.com" || "menonakshay07@gmail.com" || "dharmendra.s.negi96@gmail.com" || "guptamiley3012@gmail.com";
      // email is the best way to reach out to us.
      sendEmail(emailId);
   }
