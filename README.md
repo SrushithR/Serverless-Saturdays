@@ -13,8 +13,8 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ### [29th May, 2021](https://www.meetup.com/aws-user-group-tirupati/events/278157160/) (Upcoming)
 
-#### Session 1: TBD (Potentially on local testing of Serverless applications)
-   - Resource Person: [Sam Williams](https://www.linkedin.com/in/sam-williams-61066a43/), Complete Coding.
+#### Session 1: Creating an Amazing Developer Experience with Serverless
+   - Resource Person: [Sam Williams](https://www.linkedin.com/in/sam-williams-61066a43/), Founder of Complete Coding.
 
 #### Session 2:  Getting started with AWS Amplify
    - Resource Person: [Abhishek Wagh](https://twitter.com/I_AM_Abhishek07), Backend Engineer at KonfHub Technologies and AWS Community Builder
