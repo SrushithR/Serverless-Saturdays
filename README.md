@@ -11,7 +11,7 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ##  Serverless Saturdays Playlist
 
-### 29th May, 2021
+### 29th May, 2021 (Upcoming)
 
 #### Session 1: TBD (Potentially on local testing of Serverless applications)
    - Resource Person: [Sam Billings](https://www.linkedin.com/in/sam-williams-61066a43/), Complete Coding.
