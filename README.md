@@ -11,7 +11,15 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ##  Serverless Saturdays Playlist
 
-### 24th April, 2021 (Upcoming)
+### 29th May, 2021
+
+#### Session 1: TBD (Potentially on local testing of Serverless applications)
+   - Resource Person: [Sam Billings](https://www.linkedin.com/in/sam-williams-61066a43/), Complete Coding.
+
+#### Session 2:  Connecting Us With Video (opinionated talk)
+   - Resource Person: [Abhishek Wagh](https://twitter.com/I_AM_Abhishek07), Backend Engineer, KonfHub and AWS Community Builder member.
+
+### 24th April, 2021
 
 #### Session 2:  Connecting Us With Video (opinionated talk)
    - Resource Person: [Alex Zumkhawala](https://twitter.com/spicykey/), 5x AWS certified, AWS Certified SME, and AWS Community Builder member.
