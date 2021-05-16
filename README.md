@@ -11,15 +11,15 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ##  Serverless Saturdays Playlist
 
-### 29th May, 2021 (Upcoming)
+### [29th May, 2021](https://www.meetup.com/aws-user-group-tirupati/events/278157160/) (Upcoming)
 
 #### Session 1: TBD (Potentially on local testing of Serverless applications)
    - Resource Person: [Sam Billings](https://www.linkedin.com/in/sam-williams-61066a43/), Complete Coding.
 
-#### Session 2:  Connecting Us With Video (opinionated talk)
-   - Resource Person: [Abhishek Wagh](https://twitter.com/I_AM_Abhishek07), Backend Engineer, KonfHub and AWS Community Builder member.
+#### Session 2:  Getting started with AWS Amplify
+   - Resource Person: [Abhishek Wagh](https://twitter.com/I_AM_Abhishek07), Backend Engineer at KonfHub Technologies and AWS Community Builder
 
-### 24th April, 2021
+### [24th April, 2021](https://www.meetup.com/aws-user-group-tirupati/events/277192779/)
 
 #### Session 2:  Connecting Us With Video (opinionated talk)
    - Resource Person: [Alex Zumkhawala](https://twitter.com/spicykey/), 5x AWS certified, AWS Certified SME, and AWS Community Builder member.
@@ -28,7 +28,7 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
    - Resource Person: [Rajalakshmi Srinivasan](https://www.linkedin.com/in/raji-zoho/), is a director - product management, at Zoho Corp.
 
 
-### 27th March, 2021
+### [27th March, 2021](https://www.meetup.com/aws-user-group-tirupati/events/276845581/)
 
 #### Session 2: Getting started with Amazon EventBridge
    - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=yzut-TDCqmk)
@@ -40,7 +40,7 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
    - Resource Person: [Vishnu Prasad](https://www.linkedin.com/in/vishnu-prasad-a2490b91/), Serverless Developer at Serverlessguru and AWS Community Builder
 
 
-### 27th Feburary, 2021
+### [27th Feburary, 2021](https://www.meetup.com/aws-user-group-tirupati/events/276145164/)
 
 #### Session 2: CI CD in the World of Serverless
    - Powerpoint presentation: [https://www.slideshare.net/SrushithR/cicd-in-the-world-of-serverless-243556208](https://www.slideshare.net/SrushithR/cicd-in-the-world-of-serverless-243556208)
