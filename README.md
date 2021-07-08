@@ -11,32 +11,43 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ##  Serverless Saturdays Playlist
 
-### [29th May, 2021](https://www.meetup.com/aws-user-group-tirupati/events/278157160/) (Upcoming)
+### [24th July, 2021](https://www.meetup.com/aws-user-group-tirupati/events/279168349/) (Upcoming)
 
-#### Session 1: Creating an Amazing Developer Experience with Serverless
-   - Resource Person: [Sam Williams](https://www.linkedin.com/in/sam-williams-61066a43/), Founder of Complete Coding.
+#### Session 2:  More with Less on Serverless
+   - Resource Person: [Sindhoora Ramesh](https://www.linkedin.com/in/sindhoora-ramesh-016b119/), Software development manager at Azuga Telematics
+
+#### Session 1: Event Driven Serverless Microservices
+   - Resource Person: [Gareth Mc Cumskey](https://www.linkedin.com/in/garethmcc/), Solutions Architect at Serverless Inc.
+   
+### [29th May, 2021](https://www.meetup.com/aws-user-group-tirupati/events/278157160/)
 
 #### Session 2:  Getting started with AWS Amplify
    - Resource Person: [Abhishek Wagh](https://twitter.com/I_AM_Abhishek07), Backend Engineer at KonfHub Technologies and AWS Community Builder
+   - Video Stream: [https://youtu.be/R8QjGb8lVhE](https://youtu.be/R8QjGb8lVhE)
+
+#### Session 1: Creating an Amazing Developer Experience with Serverless
+   - Resource Person: [Sam Williams](https://www.linkedin.com/in/sam-williams-61066a43/), Founder of Complete Coding.
+   - Video Stream: [https://youtu.be/R8QjGb8lVhE](https://youtu.be/R8QjGb8lVhE)
 
 ### [24th April, 2021](https://www.meetup.com/aws-user-group-tirupati/events/277192779/)
 
 #### Session 2:  Connecting Us With Video (opinionated talk)
    - Resource Person: [Alex Zumkhawala](https://twitter.com/spicykey/), 5x AWS certified, AWS Certified SME, and AWS Community Builder member.
+   - Video Stream: [https://youtu.be/6EGcagn-kUQ](https://youtu.be/6EGcagn-kUQ)
 
 #### Session 1: Serverless - why, what, when and how?
    - Resource Person: [Rajalakshmi Srinivasan](https://www.linkedin.com/in/raji-zoho/), is a director - product management, at Zoho Corp.
-
+   - Video Stream: [https://youtu.be/6EGcagn-kUQ](https://youtu.be/6EGcagn-kUQ)
 
 ### [27th March, 2021](https://www.meetup.com/aws-user-group-tirupati/events/276845581/)
 
 #### Session 2: Getting started with Amazon EventBridge
-   - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=yzut-TDCqmk)
+   - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=Yb5yFr7u_qA)
    - Powerpoint presentation: [https://www.slideshare.net/SrushithR/getting-started-with-amazon-eventbridge](https://www.slideshare.net/SrushithR/getting-started-with-amazon-eventbridge)
    - Resource Person: [Srushith Repakula](https://twitter.com/SrushithR), AWS Serverless Hero and Head of Engineering, KonfHub
 
 #### Session 1: Load testing serverless applications and understanding how AWS Lambda scales
-   - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=yzut-TDCqmk)
+   - Video Stream: [https://www.youtube.com/watch?v=Yb5yFr7u_qA](https://www.youtube.com/watch?v=Yb5yFr7u_qA)
    - Resource Person: [Vishnu Prasad](https://www.linkedin.com/in/vishnu-prasad-a2490b91/), Serverless Developer at Serverlessguru and AWS Community Builder
 
 
