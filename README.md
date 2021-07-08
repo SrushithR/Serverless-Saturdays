@@ -63,6 +63,20 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
    - Video Stream: [https://www.youtube.com/watch?v=yzut-TDCqmk](https://www.youtube.com/watch?v=yzut-TDCqmk)
    - Resource Person: [Vadym Kazulkin](https://twitter.com/VKazulkin), Head of Technology Strategy at ip.labs GmbH
 
+## Contributors
+                                                                                                                                   
+
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/srushith/"><img src="https://pbs.twimg.com/profile_images/797038160601452544/woWQIZCB_400x400.jpg" width="200px;" alt=""/><br /><sub><b>Srushith Repakula</b></sub></a></td> 
+         <td align="center"><a href="https://www.linkedin.com/in/smilegupta/"><img src="https://pbs.twimg.com/profile_images/1256611036259483648/_RvFgujM_400x400.jpg" width="200px;" alt=""/><br /><sub><b>Smile Gupta</b></sub></a></td> 
+         <td align="center"><a href="https://www.linkedin.com/in/dharmendra-negi/"><img src="https://pbs.twimg.com/profile_images/1266950041966505984/6NPgMW4z_400x400.jpg" alt="" width="200px;"/><br /><sub><b>Dharmendra Singh Negi</b></sub></a></td> 
+         <td align="center"><a href="https://www.linkedin.com/in/kartikahirrao/"><img src="https://pbs.twimg.com/profile_images/1397419079493844992/6Nbc2vPl_400x400.jpg" width="200px;" alt=""/><br /><sub><b>Kartik Ahirrao</b></sub></a></td> 
+  </tr>
+   </table>
+
+
 ## Interesed in contributing or presenting in the series?
 
 ```javascript
