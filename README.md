@@ -11,7 +11,7 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ##  [Serverless Saturdays Playlist](https://www.youtube.com/playlist?list=PLG1Jgal0l0oh7bOEOIZEMz4z8qu_-Jn4x)
 
-### [24th July, 2021](https://www.meetup.com/aws-user-group-tirupati/events/279168349/) (Upcoming)
+### [24th July, 2021](https://www.meetup.com/aws-user-group-tirupati/events/279168349/)
 
 #### Session 2:  More with Less on Serverless
    - Resource Person: [Sindhoora Ramesh](https://www.linkedin.com/in/sindhoora-ramesh-016b119/), Software development manager at Azuga Telematics
@@ -72,7 +72,7 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
     <td align="center"><a href="https://www.linkedin.com/in/srushith/"><img src="https://pbs.twimg.com/profile_images/797038160601452544/woWQIZCB_400x400.jpg" width="200px;" alt=""/><br /><sub><b>Srushith Repakula</b></sub></a></td> 
          <td align="center"><a href="https://www.linkedin.com/in/smilegupta/"><img src="https://pbs.twimg.com/profile_images/1427544954071437318/YgGGPICC_400x400.jpg" width="200px;" alt=""/><br /><sub><b>Smile Gupta</b></sub></a></td> 
          <td align="center"><a href="https://www.linkedin.com/in/dharmendra-negi/"><img src="https://pbs.twimg.com/profile_images/1266950041966505984/6NPgMW4z_400x400.jpg" alt="" width="200px;"/><br /><sub><b>Dharmendra Singh Negi</b></sub></a></td> 
-         <td align="center"><a href="https://www.linkedin.com/in/kartikahirrao/"><img src="https://media-exp1.licdn.com/dms/image/C5603AQGEKys97olgNQ/profile-displayphoto-shrink_800_800/0/1626074912728?e=1632355200&v=beta&t=bt731Oq7I0ctYGp4utibD1QCp6blLxVjEcGzofMh_78" width="200px;" alt=""/><br /><sub><b>Kartik Ahirrao</b></sub></a></td> 
+         <td align="center"><a href="https://www.linkedin.com/in/kartikahirrao/"><img src="https://pbs.twimg.com/profile_images/1420724238013501441/6-0XeWxA_400x400.jpg" width="200px;" alt=""/><br /><sub><b>Kartik Ahirrao</b></sub></a></td> 
   </tr>
    </table>
 
