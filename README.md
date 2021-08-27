@@ -11,6 +11,14 @@ It is a free monthly webinar about "everything Serverless", an initiative from [
 
 ##  [Serverless Saturdays Playlist](https://www.youtube.com/playlist?list=PLG1Jgal0l0oh7bOEOIZEMz4z8qu_-Jn4x)
 
+### [28th August, 2021](https://www.meetup.com/aws-user-group-tirupati/events/280068377/)
+
+#### Session 2: Serverless Data Lake
+   - Resource Person: Mohamed Fayaz, Senior Data Engineer at Accenture Australia
+
+#### Session 1: Event Driven Serverless Microservices
+   - Resource Person: [Pawel Piwosz](https://www.linkedin.com/in/pawelpiwosz/), Lead System Engineer at EPAM Systems.
+
 ### [24th July, 2021](https://www.meetup.com/aws-user-group-tirupati/events/279168349/)
 
 #### Session 2:  More with Less on Serverless
